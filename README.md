@@ -1,7 +1,7 @@
 # Amazon Sponsored Products Campaign Report  
-**March 12th – April 10th, 2025**
+**March 12th – April 11th, 2025**
 
----
+![dash](https://imgur.com/pr3uNge.png)
 
 ## 📊 Executive Summary  
 This report analyzes the performance of Sponsored Products campaigns on Amazon Seller Central over a 30-day period from March 12th to April 10th, 2025. The dataset includes search terms, returns, and SKU performance, with impressions below 100 filtered out to ensure data reliability.
@@ -17,8 +17,6 @@ This report analyzes the performance of Sponsored Products campaigns on Amazon S
 **Summary:**  
 The campaign shows moderate visibility and a strong ROAS of 5.81, indicating solid return. However, the relatively high ad cost on sales and modest conversion rate reveal opportunities for further optimization, including ad spend efficiency, campaign strategy, and product listing quality.
 
----
-
 ## 📈 Campaign Performance Analysis
 
 ### Overall Metrics
@@ -30,8 +28,6 @@ The campaign shows moderate visibility and a strong ROAS of 5.81, indicating sol
 - **Average Ad Run Days:** 15  
 
 While visibility is decent, limited engagement is evident from the low CTR. ROAS is healthy, but efficiency improvements can be made by refining targeting and improving listing quality.
-
----
 
 ### ⭐ Top-Performing Keywords
 
@@ -56,8 +52,6 @@ While visibility is decent, limited engagement is evident from the low CTR. ROAS
 **Recommendation:**  
 Prioritize these high-efficiency keywords for increased ad spend to maximize returns.
 
----
-
 ### ⚠️ Underperforming Keywords
 
 - **Womens High Waisted Jeans:** 609 impressions, $3.93 spent, 0 conversions  
@@ -67,8 +61,6 @@ Prioritize these high-efficiency keywords for increased ad spend to maximize ret
 
 **Recommendation:**  
 Pause or reduce budget allocation for these keywords as they show no return.
-
----
 
 ### 🔍 Top Keywords by Search Volume
 
@@ -81,8 +73,6 @@ Pause or reduce budget allocation for these keywords as they show no return.
 **Recommendation:**  
 These keywords have high search intent but relatively low CTR. Review ad creatives, copy, and match types for optimization.
 
----
-
 ## ✅ Final Recommendations
 - Scale budget on high-performing, high-ROAS keywords.
 - Reallocate spend from underperforming keywords.
@@ -90,7 +80,7 @@ These keywords have high search intent but relatively low CTR. Review ad creativ
 - Test and optimize ad creatives to boost CTR.
 - Investigate return reasons to improve conversion quality.
 
----
+![dash](https://imgur.com/7uHVVtU.png)
 
 ## 🔄 Returns Analysis
 
@@ -107,8 +97,6 @@ These keywords have high search intent but relatively low CTR. Review ad creativ
 **Insight:**  
 The SKU `114_BLK_FBA_M` has the highest return rate (33.60%), signaling potential issues with sizing or product quality.
 
----
-
 ### 📦 Reasons for Returns
 
 | Reason                  | Percentage | Number of Returns |
@@ -121,8 +109,6 @@ The SKU `114_BLK_FBA_M` has the highest return rate (33.60%), signaling potentia
 
 **Insight:**  
 Over 83% of returns are related to sizing issues, underscoring the importance of improving size accuracy and expectations in listings.
-
----
 
 ## 🚀 Recommendations
 
@@ -151,8 +137,6 @@ Over 83% of returns are related to sizing issues, underscoring the importance of
   - Test new ad copy emphasizing unique features (e.g., *“Perfect Fit High Waisted Jeans”*).
   - Use high-quality product images with clear lifestyle context.
 
----
-
 ### 🛍️ Listing, Image & Sizing Improvements
 
 - **Address Sizing Issues 📏**  
@@ -168,8 +152,6 @@ Over 83% of returns are related to sizing issues, underscoring the importance of
   - Investigate SKU `114_BLK_FBA_M` (33.60% returns) for sizing or quality defects.
   - Monitor SKU `161_FBA_M/38` and others above 15% return rate and update listings as needed.
 
----
-
 ## 📉 Conclusion
 
 The Sponsored Products campaign has a solid foundation with a strong ROAS of **5.81** and high-performing keywords like *“high waisted black jeans”* and *“black leather trousers.”* However, improvements are needed in the following areas:
@@ -180,5 +162,3 @@ The Sponsored Products campaign has a solid foundation with a strong ROAS of **5
 - Address major return causes—primarily sizing accuracy—to reduce return-related losses.
 
 By executing these changes and continuously monitoring performance, the campaign can achieve greater efficiency, profitability, and customer satisfaction.
-
----
