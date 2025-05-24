@@ -1,6 +1,7 @@
 # Amazon Sponsored Products Campaign Report  
 
 ![dash](https://imgur.com/kSNSmui.png)
+Interact with dashboard [here!](https://app.powerbi.com/view?r=eyJrIjoiN2Q0ZWI5M2YtMjU0Yy00ZmUzLWFmZGEtNWEzZDZkNmJkODE4IiwidCI6IjA1ODU3NTFmLTRiNDctNDUzOS04YmMzLWJmODNlMmVlMWQzZiJ9)
 
 ## 📈 Campaign Performance Analysis
 This report analyzes the performance of Sponsored Products campaigns on Amazon Seller Central over a 30-day period from March 12th to April 10th, 2025. The dataset includes campaigns, Ad group, Customer search terms, and metrics, with impressions below 100 filtered out to ensure data reliability.
