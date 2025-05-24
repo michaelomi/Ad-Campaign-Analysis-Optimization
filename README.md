@@ -1,33 +1,11 @@
 # Amazon Sponsored Products Campaign Report  
-**March 12th – April 11th, 2025**
 
-![dash](https://imgur.com/pr3uNge.png)
-
-## 📊 Executive Summary  
-This report analyzes the performance of Sponsored Products campaigns on Amazon Seller Central over a 30-day period from March 12th to April 10th, 2025. The dataset includes search terms, returns, and SKU performance, with impressions below 100 filtered out to ensure data reliability.
-
-### Key Metrics
-- **Total Impressions:** 26,000  
-- **Click-Through Rate (CTR):** 1.37%  
-- **Ad Cost on Sales:** 17.20%  
-- **Return on Ad Spend (ROAS):** 5.81  
-- **Conversion Rate:** 3.68%  
-- **Average Ad Run Duration:** 15 days
-
-**Summary:**  
-The campaign shows moderate visibility and a strong ROAS of 5.81, indicating solid return. However, the relatively high ad cost on sales and modest conversion rate reveal opportunities for further optimization, including ad spend efficiency, campaign strategy, and product listing quality.
+![dash](https://imgur.com/kSNSmui.png)
 
 ## 📈 Campaign Performance Analysis
-
-### Overall Metrics
-- **Impressions:** 26,000  
-- **CTR:** 1.37%  
-- **Ad Cost on Sales:** 17.20%  
-- **ROAS:** 5.81  
-- **Conversion Rate:** 3.68%  
-- **Average Ad Run Days:** 15  
-
-While visibility is decent, limited engagement is evident from the low CTR. ROAS is healthy, but efficiency improvements can be made by refining targeting and improving listing quality.
+This report analyzes the performance of Sponsored Products campaigns on Amazon Seller Central over a 30-day period from March 12th to April 10th, 2025. The dataset includes campaigns, Ad group, Customer search terms, and metrics, with impressions below 100 filtered out to ensure data reliability.
+The campaign shows moderate visibility and a strong ROAS of 5.81, indicating solid return. However, the relatively high ad cost on sales and modest conversion rate reveal opportunities for further optimization of ad spend efficiency and campaign strategy.
+While visibility is decent, limited engagement is evident from the low CTR. ROAS is healthy, but efficiency improvements can be made by refining targeting.
 
 ### ⭐ Top-Performing Keywords
 
@@ -73,42 +51,7 @@ Pause or reduce budget allocation for these keywords as they show no return.
 **Recommendation:**  
 These keywords have high search intent but relatively low CTR. Review ad creatives, copy, and match types for optimization.
 
-## ✅ Final Recommendations
-- Scale budget on high-performing, high-ROAS keywords.
-- Reallocate spend from underperforming keywords.
-- Enhance product listing content for better engagement.
-- Test and optimize ad creatives to boost CTR.
-- Investigate return reasons to improve conversion quality.
-
-![dash](https://imgur.com/7uHVVtU.png)
-
-## 🔄 Returns Analysis
-
-### Top SKUs by Returns
-
-| SKU                 | Returns | Return Rate |
-|---------------------|---------|--------------|
-| 114_BLK_FBA_M       | 42      | 33.60%       |
-| 161_FBA_M/38        | 23      | 18.40%       |
-| 114_BLK_FBA_L       | 22      | 17.60%       |
-| 114_BLK_FBA_XL      | 22      | 17.60%       |
-| 275_FBA_38          | 16      | 12.80%       |
-
-**Insight:**  
-The SKU `114_BLK_FBA_M` has the highest return rate (33.60%), signaling potential issues with sizing or product quality.
-
-### 📦 Reasons for Returns
-
-| Reason                  | Percentage | Number of Returns |
-|--------------------------|------------|--------------------|
-| Apparel Too Small        | 57.51%     | 203                |
-| Apparel Too Large        | 26.06%     | 92                 |
-| Apparel Style            | 7.93%      | 28                 |
-| Unwanted Item            | 5.10%      | 18                 |
-| Quality Unacceptable     | 3.40%      | 12                 |
-
-**Insight:**  
-Over 83% of returns are related to sizing issues, underscoring the importance of improving size accuracy and expectations in listings.
+![dash](https://imgur.com/xwMPVjP.png)
 
 ## 🚀 Recommendations
 
@@ -136,21 +79,6 @@ Over 83% of returns are related to sizing issues, underscoring the importance of
   The low overall CTR (1.37%) suggests ad messaging or visuals may not resonate.
   - Test new ad copy emphasizing unique features (e.g., *“Perfect Fit High Waisted Jeans”*).
   - Use high-quality product images with clear lifestyle context.
-
-### 🛍️ Listing, Image & Sizing Improvements
-
-- **Address Sizing Issues 📏**  
-  - Add a detailed sizing chart (waist, hips, inseam).
-  - Include customer feedback like *“runs small, consider sizing up”*.
-  - Show diverse model body types in product photos to improve expectation accuracy.
-
-- **Improve Product Descriptions 📝**  
-  - For returns citing *style* and *quality*, expand product details: fabric type, stretch level, fit (slim/tapered), etc.
-  - Include multiple high-resolution images, showing close-ups of stitching, material texture, and fit on models.
-
-- **Review or Pause Problematic SKUs 🛑**  
-  - Investigate SKU `114_BLK_FBA_M` (33.60% returns) for sizing or quality defects.
-  - Monitor SKU `161_FBA_M/38` and others above 15% return rate and update listings as needed.
 
 ## 📉 Conclusion
 
